@@ -7,7 +7,7 @@
   "author": "hiepnguyen",
   "license": "none",
   "private": false,
-  "script": {
+  "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
