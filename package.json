@@ -7,6 +7,9 @@
   "author": "hiepnguyen",
   "license": "none",
   "private": false,
+  "script": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^4.4.0"
