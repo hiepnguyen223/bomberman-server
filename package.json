@@ -1,0 +1,14 @@
+{
+  "name": "bombermansocketio",
+  "version": "1.0.0",
+  "description": "bomberman",
+  "main": "dont",
+  "repository": "no",
+  "author": "hiepnguyen",
+  "license": "none",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  }
+}
