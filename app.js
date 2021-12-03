@@ -8,7 +8,7 @@ const io = require("socket.io")(server, {
     }
 });
 
-server.listen(3000);
+server.listen(process.env.PORT || 3000);
 
 let maxRoomId = 100000;
 const clientRooms = {};
